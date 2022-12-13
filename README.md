@@ -23,3 +23,5 @@ Nele ainda existe a intenção de ir incrementando com outras funcionalidades de
 ## Deploy
 
 Deploy feito na Vercel.app
+
+https://to-do-list-lucasst.vercel.app/
